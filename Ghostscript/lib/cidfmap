@@ -1,0 +1,63 @@
+%!
+% cidfmap generated automatically by mkcidfm.ps from fonts found in
+%   C:/Windows/Fonts
+
+% Substitutions
+/FangSong << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/simfang.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/Meiryo-Italic << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/meiryo.ttc) /SubfontID 1 /FileType /TrueType >> ;
+/Meiryo << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/meiryo.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/MS-PMincho << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/msmincho.ttc) /SubfontID 1 /FileType /TrueType >> ;
+/SimHei << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/simhei.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/ArialUnicodeMS-KR << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/arialuni.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/DFKaiShu-SB-Estd-BF << /CSI [(CNS1) 2] /Path (C:/Windows/Fonts/kaiu.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/GungsuhChe << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/batang.ttc) /SubfontID 3 /FileType /TrueType >> ;
+/MicrosoftJhengHeiBold << /CSI [(CNS1) 2] /Path (C:/Windows/Fonts/msjhbd.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/MingLiU << /CSI [(CNS1) 2] /Path (C:/Windows/Fonts/mingliu.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/MicrosoftYaHeiBold << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/msyhbd.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/Meiryo-BoldItalic << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/meiryob.ttc) /SubfontID 1 /FileType /TrueType >> ;
+/PMingLiU << /CSI [(CNS1) 2] /Path (C:/Windows/Fonts/mingliu.ttc) /SubfontID 1 /FileType /TrueType >> ;
+/Batang << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/batang.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/MS-UI-Gothic << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/msgothic.ttc) /SubfontID 2 /FileType /TrueType >> ;
+/MalgunGothicRegular << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/malgun.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/MalgunGothicBold << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/malgunbd.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/MS-PGothic << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/msgothic.ttc) /SubfontID 1 /FileType /TrueType >> ;
+/NSimSun << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/simsun.ttc) /SubfontID 1 /FileType /TrueType >> ;
+/Gungsuh << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/batang.ttc) /SubfontID 2 /FileType /TrueType >> ;
+/Dotum << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/gulim.ttc) /SubfontID 2 /FileType /TrueType >> ;
+/GulimChe << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/gulim.ttc) /SubfontID 1 /FileType /TrueType >> ;
+/MicrosoftJhengHeiRegular << /CSI [(CNS1) 2] /Path (C:/Windows/Fonts/msjh.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/Meiryo-Bold << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/meiryob.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/ArialUnicodeMS-GB << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/arialuni.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/KaiTi << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/simkai.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/ArialUnicodeMS-JP << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/arialuni.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/Gulim << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/gulim.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/MS-Gothic << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/msgothic.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/SimSun << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/simsun.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/MS-Mincho << /CSI [(Japan1) 3] /Path (C:/Windows/Fonts/msmincho.ttc) /SubfontID 0 /FileType /TrueType >> ;
+/DotumChe << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/gulim.ttc) /SubfontID 3 /FileType /TrueType >> ;
+/MicrosoftYaHei << /CSI [(GB1) 2] /Path (C:/Windows/Fonts/msyh.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/ArialUnicodeMS-CNS << /CSI [(CNS1) 2] /Path (C:/Windows/Fonts/arialuni.ttf) /SubfontID 0 /FileType /TrueType >> ;
+/BatangChe << /CSI [(Korea1) 3] /Path (C:/Windows/Fonts/batang.ttc) /SubfontID 1 /FileType /TrueType >> ;
+
+% Aliases
+/AdobeMingStd-Light /MingLiU ;
+/Ryumin-Medium /MS-Mincho ;
+/HYGoThic-Medium /Dotum ;
+/AdobeSongStd-Light /SimSun ;
+/MSung-Medium /MingLiU ;
+/MSung-Light /MingLiU ;
+/HYRGoThic-Medium /Gulim ;
+/STSong-Light /SimSun ;
+/Ryumin-Light /MS-Mincho ;
+/MHei-Medium /MicrosoftJhengHeiRegular ;
+/HeiseiKakuGo-W5 /MS-Gothic ;
+/STHeiti-Regular /MicrosoftYaHei ;
+/MKai-Medium /DFKaiShu-SB-Estd-BF ;
+/GothicBBB-Medium /MS-Gothic ;
+/AdobeMyungjoStd-Medium /Batang ;
+/AdobeHeitiStd-Regular /MicrosoftYaHei ;
+/HeiseiMin-W3 /MS-Mincho ;
+/STKaiti-Regular /KaiTi ;
+/KozMinPr6N-Regular /MS-Mincho ;
+/STFangsong-Light /FangSong ;
+/HYSMyeongJo-Medium /Batang ;
